@@ -4,13 +4,22 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ToDo App (Firebase + GetX)
 
-A few resources to get you started if this is your first Flutter project:
+💡 Project Idea
+Designing an advanced Todo app using Flutter. It allows each user to create their own account (via email or Google), create their own tasks, edit or delete them individually or all at once, and track completed tasks.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+⚙ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Firebase:
+Authentication (Email/Password + Google Sign-In).
+Firestore Database for storing tasks for each user.
+
+GetX:
+State Management.
+Routing Management.
+Dependency Injection.
+
+Clean code
+
+
